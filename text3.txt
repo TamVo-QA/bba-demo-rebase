@@ -1,1 +1,2 @@
-ebase merge : Commit 6 - Update main
+Rebase merge : Commit 6 - Update main
+               Commit 7 - Continue main development

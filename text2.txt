@@ -1,2 +1,3 @@
 rebase merge : Commit 3 - Add new feature A on new branch
                Commit 4 - Add new feature B on new branch
+               Commit 5 - Add new feature C on new branch

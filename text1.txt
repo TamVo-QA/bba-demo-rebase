@@ -1,1 +1,2 @@
 rebase merge : Commit 1 - Initial setup
+               Commit 2 - Add main feature
